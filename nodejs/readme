@@ -1,0 +1,2 @@
+to build and run the server 
+docker run --rm -it -p 8087:80 learnbook/node-server
